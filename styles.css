@@ -1,4 +1,7 @@
 /*  your css code here. If applicable */ 
+.imageContainer{ 
+     width: 1100px; 
+}
   
  td:nth-child(2n) { 
      width: 200px; 
